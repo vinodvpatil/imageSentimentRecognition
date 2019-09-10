@@ -7,8 +7,8 @@ import sys
 
 
 # parameters for loading data and images
-detection_model_path = 'haarcascade_files/haarcascade_frontalface_default.xml'
-emotion_model_path = 'models/_mini_XCEPTION.102-0.66.hdf5'
+detection_model_path = 'haarcascade_frontalface_default.xml'
+emotion_model_path = '_mini_XCEPTION.102-0.66.hdf5'
 
 # hyper-parameters for bounding boxes shape
 # loading models
